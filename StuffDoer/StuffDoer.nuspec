@@ -4,9 +4,9 @@
     <id>StuffDoer</id>
     <version>1.0.0</version>
     <readme>README.md</readme>
-    <authors>Parker Stovall</authors>
-    <projectUrl>https://github.com/mjh-pstovall/package-creation-template/</projectUrl>
-    <description>It Does Stuff! (TM)</description>
+    <authors>Matthew Braun</authors>
+    <projectUrl>https://github.com/matthew-braun/package-creation-template/</projectUrl>
+    <description>It Doesn't Stuff, Sometimes, Too! (TM)</description>
   </metadata>
   <files>
     <file src="../README.md" target="" />
